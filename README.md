@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buzzke
 - 👀 I’m interested in Homelabs
 - 🌱 I’m currently learning CWNA
-- 💞️ I’m looking to collaborate on nzbToMeda
+- 💞️ I’m looking to collaborate on nzbToMedia
 - 📫 How to reach me buzzke@pm.me
 
 <!---
